@@ -1,0 +1,76 @@
+City,State,Population,City/State,Lat,Lon
+New York,NY,8363710,"New York, NY",40.74838,-73.996705
+Los Angeles,CA,3833995,"Los Angeles, CA",33.973093,-118.247896
+Chicago,IL,2853114,"Chicago, IL",41.885847,-87.618123
+Houston,TX,2242193,"Houston, TX",29.759366,-95.359361
+Phoenix,AZ,1567924,"Phoenix, AZ",33.451095,-112.077428
+Philadelphia,PA,1447395,"Philadelphia, PA",39.948908,-75.166109
+San Antonio,TX,1351305,"San Antonio, TX",29.427462,-98.460112
+Dallas,TX,1279910,"Dallas, TX",32.790439,-96.80439
+San Diego,CA,1279329,"San Diego, CA",32.71852,-117.159316
+San Jose,CA,948279,"San Jose, CA",37.32966,-121.890299
+Detroit,MI,912062,"Detroit, MI",42.347429,-83.060398
+San Francisco,CA,808976,"San Francisco, CA",37.781334,-122.416728
+Jacksonville,FL,807815,"Jacksonville, FL",30.329882,-81.651672
+Indianapolis,IN,798382,"Indianapolis, IN",39.775006,-86.109348
+Austin,TX,757688,"Austin, TX",30.271289,-97.742559
+Columbus,OH,754885,"Columbus, OH",39.995157,-83.004732
+Fort Worth,TX,703073,"Fort Worth, TX",32.758897,-97.328023
+Charlotte,NC,687456,"Charlotte, NC",35.229002,-80.841864
+Memphis,TN,669651,"Memphis, TN",35.144001,-90.047995
+Baltimore,MD,636919,"Baltimore, MD",39.29463,-76.625203
+El Paso,TX,613190,"El Paso, TX",31.758411,-106.478311
+Boston,MA,609023,"Boston, MA",42.357603,-71.068432
+Milwaukee,WI,604477,"Milwaukee, WI",43.050601,-87.896792
+Denver,CO,598707,"Denver, CO",39.749107,-104.994591
+Seattle,WA,598541,"Seattle, WA",47.611435,-122.330456
+Nashville,TN,596462,"Nashville, TN",36.167028,-86.778441
+Washington,DC,591833,"Washington, DC",38.912217,-77.017691
+Las Vegas,NV,558383,"Las Vegas, NV",36.172082,-115.122366
+Portland,OR,557706,"Portland, OR",45.498819,-122.690258
+Louisville,KY,557224,"Louisville, KY",38.250734,-85.747646
+Oklahoma City,OK,551789,"Oklahoma City, OK",35.472601,-97.519926
+Tucson,AZ,541811,"Tucson, AZ",32.213873,-110.969445
+Atlanta,GA,537958,"Atlanta, GA",33.752504,-84.388846
+Albuquerque,NM,521999,"Albuquerque, NM",35.081831,-106.648171
+Fresno,CA,476050,"Fresno, CA",36.748727,-119.786705
+Sacramento,CA,463794,"Sacramento, CA",38.579792,-121.489404
+Kansas City,MO,451572,"Kansas City, MO",39.10005,-94.601849
+Omaha,NE,438646,"Omaha, NE",41.258961,-95.940909
+Cleveland,OH,433748,"Cleveland, OH",41.473508,-81.739791
+Virginia Beach,VA,433746,"Virginia Beach, VA",36.858451,-76.001928
+Miami,FL,413201,"Miami, FL",25.7911,-80.320733
+Raleigh,NC,392552,"Raleigh, NC",35.772701,-78.632439
+Tulsa,OK,385635,"Tulsa, OK",36.153858,-95.995426
+Minneapolis,MN,382605,"Minneapolis, MN",44.983473,-93.268251
+Colorado Springs,CO,380307,"Colorado Springs, CO",38.838832,-104.814466
+Wichita,KS,366046,"Wichita, KS",37.689945,-97.33551
+St. Louis,MO,354361,"St. Louis, MO",38.634616,-90.191313
+Tampa,FL,340882,"Tampa, FL",27.961381,-82.45972
+Santa Ana,CA,339130,"Santa Ana, CA",33.75016,-117.857665
+Cincinnati,OH,333336,"Cincinnati, OH",39.107225,-84.501956
+Bakersfield,CA,321078,"Bakersfield, CA",35.386611,-119.017063
+New Orleans,LA,311853,"New Orleans, LA",29.960484,-90.075301
+Pittsburgh,PA,310037,"Pittsburgh, PA",40.403577,-79.83889
+Toledo,OH,293201,"Toledo, OH",41.647984,-83.554747
+Stockton,CA,287037,"Stockton, CA",37.960632,-121.287087
+Corpus Christi,TX,286462,"Corpus Christi, TX",27.794086,-97.402994
+Lexington,KY,282114,"Lexington, KY",38.017394,-84.485423
+Buffalo,NY,270919,"Buffalo, NY",42.896659,-78.884575
+Plano,TX,267480,"Plano, TX",33.054972,-96.736454
+Lincoln,NE,251624,"Lincoln, NE",40.789282,-96.693763
+Fort Wayne,IN,251591,"Fort Wayne, IN",41.070717,-85.15431
+Greensboro,NC,250642,"Greensboro, NC",36.069741,-79.768151
+St. Petersburg,FL,245314,"St. Petersburg, FL",27.772318,-82.638609
+Madison,WI,231916,"Madison, WI",43.077535,-89.383068
+Orlando,FL,230519,"Orlando, FL",28.539882,-81.372668
+Birmingham,AL,228798,"Birmingham, AL",33.520994,-86.806626
+Baton Rouge,LA,223689,"Baton Rouge, LA",30.450731,-91.186954
+Laredo,TX,221659,"Laredo, TX",27.515538,-99.498579
+Lubbock,TX,220483,"Lubbock, TX",33.586527,-101.860634
+Chesapeake,VA,220111,"Chesapeake, VA",36.735246,-76.23843
+Winston-Salem,NC,217600,"Winston-Salem, NC",36.10237,-80.222798
+Reno,NV,217016,"Reno, NV",39.526812,-119.811275
+Akron,OH,207510,"Akron, OH",41.044852,-81.520048
+Rochester,NY,206886,"Rochester, NY",43.157729,-77.607978
+Boise City,ID,205314,"Boise City, ID",43.632237,-116.205192

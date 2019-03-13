@@ -1,0 +1,32 @@
+Column,Description
+% Urban Population,Percentage of the population in a county that lives in an urban area. Data from 2010 US Census.
+Household Median Income,Median household income of the county in USD. Data from 2009-2013 American Community Survey
+Median Age,Median age of the county in years. Data from 2010 US Census
+2012 Vote Rate for Democrats,Percentage of the county that voted for Barack Obama in the 2012 presidential election. Data from The Guardian.
+"% White, Non-Latino",Percentage of the county that self-describes as white but not Latino. Data from the 2010 US Census.
+% Professional Jobs,"Percentage of workers over the age of 16 in management, business, science, or arts occupations. Data from the 2009-2013 American Community Survey."
+Total Population,Total number of people who live in the county. Data from the 2010 US Census.
+% of Edits that Were Made by a Local Editor (English Wikipedia),Percentage of edits to English Wikipedia articles in the county that were made by editors with accounts that were not using AutoWikiBrowser and showed a local focus by concentrating at least 10% of their edits to spatial articles on the county.
+% of Content that Was Contributed by a Local Editor (English Wikipedia),Percentage of content in English Wikipedia articles in the county that was contributed by editors with accounts that were not using AutoWikiBrowser and showed a local focus by concentrating at least 10% of their edits to spatial articles on the county.
+% of Users who are Local (English Wikipedia),Percentage of users with accounts that made edits in the county who were considered to be locally focused.
+% Human-generated (Manual) Content (English Wikipedia),Percentage of content in English Wikipedia articles in the county that was contributed by editors with accounts that were not using AutoWikiBrowser.
+% Human (Manual) Edits (English Wikipedia),Percentage of edits in English Wikipedia articles in the county that were contributed by editors with accounts that were not using AutoWikiBrowser.
+Non-spatial Outlink Entropy (English Wikipedia),A measure of entropy for the outlinks to non-spatial articles from English Wikipedia articles in that county. Higher values indicate more diversity in the links and therefore likely more interesting and varied content.
+% of Articles that are C-class or Higher (English Wikipedia),Percentage of English Wikipedia articles in the county that have been evaluated to be of C-Class (useful to the casual reader) or higher.
+% of Spatial Outlinks to Governmental Articles (English Wikipedia),"Percentage of outlinks to spatial articles that are governmental in nature (e.g., US Census Bureau, USGS) from English Wikipedia articles in that county."
+Tag Entropy (OpenStreetMap),A measure of entropy for the OpenStreetMap tags in that county. Higher values indicate more diversity and therefore in theory more interesting information.
+Page Count (English Wikipedia),"Number of spatial English Wikipedia articles in the county. Excludes articles that are regional but happen to have coordinates in the county (e.g., California or Pacific Northwest)"
+Total Population,Total number of people who live in the prefecture. Data from 2010 Sixth National Census.
+% Urban,Percentage of the population in a prefecture that lives in an urban area. Data from 2010 Sixth National Census
+Gender Ratio,Male:Female gender ratio. Data from 2010 Sixth National Census.
+% Han Population,Percentage of the population in a prefecture that is Han. Data from 2010 Sixth National Census.
+% Age 15-64,Percentage of the population in a prefecture between the ages of 15 and 64. Data from 2010 Sixth National Census.
+% Bachelors+,Percentage of the population in a prefecture that has the equivalent of a Bachelor's Degree or higher. Data from the 2010 Sixth Naitonal Census.
+Inlinks per capita (Chinese Wikipedia),Total number of inlinks from the spatial Chinese Wikipedia pages for a prefecture divided by the number of people who live in that prefecture.
+Outlinks per capita (Chinese Wikipedia),Total number of outlinks to the spatial Chinese Wikipedia pages for a prefecture divided by the number of people who live in that prefecture.
+Non-Spatial Inlinks per capita (Chinese Wikipedia),Total number of inlinks to the spatial Chinese Wikipedia pages for a prefecture that come from just non-spatial articles divided by the number of people who live in that prefecture.
+Non-spatial Outlinks per capita (Chinese Wikipedia),Total number of outlinks from the spatial Chinese Wikipedia pages for a prefecture that go to just non-spatial pages divided by the number of people who live in that prefecture.
+Page Views per capita (Chinese Wikipedia),Total number of page views to the spatial Chinese Wikipedia pages for a prefecture divided by the number of people who live in that prefecture.
+Page Length per capita (Chinese Wikipedia),Total length (bytes) of text content in the spatial Chinese Wikipedia pages for a prefecture divided by the number of people who live in that prefecture.
+Page Count per capita (Chinese Wikipedia),Total number of spatial Chinese Wikipedia pages for a prefecture divided by the number of people who live in that prefecture.
+Page Views per Page (Chinese Wikipedia),Total number of page views to the spatial ChineseTotal number of page views to the spatial Chinese Wikipedia pages for a prefecture divided by the number of people who live in that prefecture.  Wikipedia pages for a prefecture divided by the number of articles in that prefecture.
